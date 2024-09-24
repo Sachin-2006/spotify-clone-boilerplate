@@ -1,0 +1,86 @@
+
+body{
+    margin: 0;
+    background-color: rgb(107, 92, 92);
+    color: white;
+}
+.sidebar{
+    background-color: black;
+    height: 100%;
+    width: 30%;
+    
+    position: fixed;
+    
+}
+
+.main{
+    padding-left:35%;
+    height: 1000px;
+    width:500px;
+   
+}
+#navigation{
+    padding-left: 10px;
+    height: 40px;
+}
+
+#logo{
+    width: 100%;
+    
+}
+.sidebarDetails{
+ padding-left: 20px;   
+    
+}
+
+
+.sidebimg{
+    height: 25px;
+    padding-left: 20px;
+}
+
+.sidebar > div{
+    padding-left: 20px;
+}
+.sidebarDetails > div , img{
+    padding-top: 10px;
+}
+.middleside{
+    margin-top: 50px;
+}
+#playlistname{
+text-align: center;
+position: fixed;
+
+
+    
+
+}
+.songimg{
+    height: 100%;
+    padding: 0;
+    width: 30%;
+}
+
+#song-container{
+    height: 100px;
+    width:300px;
+    background-color: grey;
+    border-radius: 5px;
+    margin:20px;
+    
+}
+
+.sidetitles{
+    padding-left: 20px;
+}
+#epimg{
+    padding-left: 20px;
+}
+
+#pod{
+    background-color: aqua;
+    height: 250px;
+    width: 200px;
+}
+
